@@ -1,0 +1,2 @@
+# Adreno-Gpu-Driverr
+805版本的Gpu驱动，杂交了767驱动，vk使用767的vk，但由于767使用的是vk，所以事实上使用的是757的vk；libOpenCL文件使用的是6xx系列的libOpenCL文件用于补全
